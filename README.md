@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SAshourav
+- 👋 Hi, I’m Sabbir Ahmed
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java Script and PhP
 - 💞️ I’m looking to collaborate on Bulding an unique Website
 - 📫 How to reach me www.facebook.com/sa.shourav.7
 
